@@ -18,3 +18,13 @@
 * haedware and experimental technique
 * Reasearch and development 
 
+### 1. Quantum machanics 
+* Super Position
+* Entanglement
+* Concept of qubits 
+* Interference
+* Wave particle duality
+* Uncertainly
+* Energy level
+* Wave function 
+* 
