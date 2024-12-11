@@ -4,7 +4,7 @@
 * A field that uses quantum machanics to perform calculationm faster and more effciently than calssical computer
 
  ## Why did i took this ?
-* To become a quantum physist
+* To become a quantum physisist
 
 ## What i need to learn ?
 * Quantum machanics
@@ -27,4 +27,4 @@
 * Uncertainly
 * Energy level
 * Wave function 
-* 
+  
